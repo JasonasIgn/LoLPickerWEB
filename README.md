@@ -1,1 +1,1 @@
-# LoLPickerWEB
+# LoLTeamPicker
